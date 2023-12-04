@@ -1,0 +1,123 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+.container{
+    width: 360px;
+    height: 600px;
+    background-color: rgb(222, 230, 240);
+    border-radius: 10px;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.3);
+}
+img{
+    width: 521px;
+    margin-left: -83px;
+    margin-top: -4rem;
+}
+.prix{
+    margin-top: -7rem;
+}
+h2{
+    margin-left: 1rem;
+}
+.bare{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: -1rem;
+}
+.ancien_prix{
+    color: red;
+}
+.nouveau_prix{
+    color:  #473C38;
+}
+i{
+    color: chocolate;
+}
+.pasfonce{
+    color: rgb(249, 214, 187);
+}
+.colors{
+    display: flex;
+    margin-left: 1rem;
+    align-items: center;
+}
+.blue{
+    width: 30px;
+    height: 30px;
+    background-color: #473C38;
+    border-radius: 10px;
+    border: 2px solid;
+    margin-left: 1rem;
+
+}
+.jaune{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 225, 0);
+    border-radius: 10px;
+    margin-left: 1rem;
+
+}
+.rouge{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 21, 0);
+    border-radius: 10px;
+    margin-left: 1rem;
+
+}
+.chocolot{
+    width: 30px;
+    height: 30px;
+    background-color: chocolate;
+    border-radius: 10px;
+    margin-left: 1rem;
+
+}
+.dash{
+    position: absolute;
+    margin-left: -18rem;
+    color: red;
+}
+.verte{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(30, 210, 60);
+    border-radius: 10px;
+    margin-left: 1rem;
+}
+.brun-gris{
+    width: 30px;
+    height: 30px;
+    background-color: #473C38;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 1rem;
+    color: burlywood;
+}
+.size{
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+
+}
+.but{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+button{
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    background-color:#72D7FF;
+    border: none;
+    margin-top: 3rem;
+    font-weight: bold;
+}
